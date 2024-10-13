@@ -1,7 +1,9 @@
 {
 
   "author": "Quýt",
+
   "version": "1.0",
+
   "scripts": {
 
     "start": "node index.js"
@@ -16,7 +18,9 @@
 
     "dotenv": "^16.4.5",
 
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+
+    "sharp": "^0.33.5"
 
   }
 
