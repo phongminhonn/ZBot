@@ -1,5 +1,6 @@
 {
 
+  "author": "Quýt",
   "scripts": {
 
     "start": "node index.js"
